@@ -38,16 +38,16 @@ The models attached in repo are not my intellectual property and the sources are
 
 ### Game previews
 #### Menu
-![Alt Text](Game%20GIF's/ToonTanks1.gif)
+![Alt Text](https://github.com/anand-bachker/Plants-VS-Tanks/blob/master/Game%20GIF's/ToonTanks1.gif)
 
 #### fight scenes
-![Alt Text](Game%20GIF's/InBattle.gif)
+![Alt Text](https://github.com/anand-bachker/Plants-VS-Tanks/blob/master/Game%20GIF's/InBattle.gif)
 
 #### dodge master
-![Alt Text](Game%20GIF's/InBattle2.gif)
+![Alt Text](https://github.com/anand-bachker/Plants-VS-Tanks/blob/master/Game%20GIF's/InBattle2.gif)
 
 #### Dead XD
-![Alt Text](Game%20GIF's/ToonTanksDeath.gif)
+![Alt Text](https://github.com/anand-bachker/Plants-VS-Tanks/blob/master/Game%20GIF's/ToonTanksDeath.gif)
 
 
 # License
